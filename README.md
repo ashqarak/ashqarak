@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashqarak
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning microservices, docker abd GCP.
+- 🌱 I’m currently learning microservices, docker and GCP.
 - 💞️ I’m looking to collaborate on reddit.
 - 📫 You can reach me on ashqaralikhan@gmail.com
 
